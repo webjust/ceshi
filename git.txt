@@ -1,0 +1,22 @@
+Linux命令大全
+http://man.linuxde.net/
+
+Git官方教程:
+https://git-scm.com/book/zh/v2
+
+图灵出版社
+http://www.ituring.com.cn/
+
+开源中国——代码云
+https://git.oschina.net/
+
+编程爱好者社区：
+https://segmentfault.com/
+https://www.v2ex.com/ V2EX 是一个关于分享和探索的地方
+
+PHP框架
+https://laravel-china.org/
+http://www.thinkphp.cn/
+
+PHP开源项目——商城系统：
+https://www.oschina.net/project/tag/68/ecommerce

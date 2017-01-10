@@ -1,0 +1,8 @@
+如何入门 Python 爬虫？
+https://www.zhihu.com/question/20899988
+
+学习Scrapy入门
+http://www.jianshu.com/p/a8aad3bf4dc4
+
+Python Wiki
+http://wiki.jikexueyuan.com/list/python/
